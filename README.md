@@ -22,4 +22,4 @@ Write a program called `bill-splitter.js` that prompts the user for how much Per
 
 Write a new program that expands on `bill-splitter.js` this program should be able to split a bill between three people! Once again, prompt the user for how much each person paid. Then, log out messages indicating who needs to pay who. 
 
-You'll probably need to use a 'system of equations' to solve this!
+You'll probably need to use a system of equations to solve this!
