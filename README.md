@@ -10,7 +10,7 @@ Write a program called `lock-box.js` that stores the pin code to the lock box in
 
 After that, use `prompt-sync` to prompt the user for the passcode. If the user gets the passcode exactly correct, log a success message containing the word, "success". If not, log a failure message containing the word, "failure".
 
-**Note:** In this assignment, the `node_modules` folder containing the `prompt-sync` dependency does not already exist. To add it to this project, navigate to this repository using the command line then install it using the Node Package Manager with `npm install prompt-sync`. A `node_modules` folder will be created along with a `package.json` and `package-lock.json` files. The latter two files are unnecessary for now and you can choose to either delete them or keep them around.
+**Note:** In this assignment, the `node_modules` folder containing the `prompt-sync` dependency does not already exist. To add it to this project, navigate to this repository using the command line then install it using the Node Package Manager with `npm install prompt-sync`.
 
 ## `bill-splitter.js`
 
